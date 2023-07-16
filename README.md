@@ -11,5 +11,8 @@
 3. useState()
    
 5. useEffect()
+   side effects =>
+   (i) Direct DOM Manipulation
+   (ii) API Calling (i.e. fetch or using axios)
    
 7. useContext()
